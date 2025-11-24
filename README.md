@@ -1,5 +1,7 @@
 # 🐳 Mastering Containers: Docker for Reproducible Bioinformatics Workflows
 
+Authors: Caterina Giachino & Gabriele Amato. Contact: caterina.giachino@unina.it | amatogab@gmail.com
+
 ## ☁️ Cloud Computing & Scalable Workflows
 
 Acquire hands-on experience with major cloud platforms (such as **AWS**, **GCP**, or **Azure**) and the use of containers (like **Docker** or **Singularity**) to ensure the **reproducibility** and **scalability** of your bioinformatics workflows.
