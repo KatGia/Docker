@@ -44,4 +44,7 @@ If you decide to teach this topic, you could structure it around the following p
 * **Docker Hub / Registry:** Demonstrate how to share and retrieve standard images (e.g., those provided by the **BioContainers** project).
 * **Integration with Workflow Managers:** Show how tools like **Snakemake** or **Nextflow** utilize Docker images to execute each **step** of a pipeline in a reproducible and isolated environment, facilitating complex, multi-tool analyses.
 
+**License**
+* This material and its associated source code are distributed under the **MIT License** — see the [LICENSE](LICENSE) file for details. The code may be freely reused and adapted for teaching or research purposes with proper attribution to the original author.
+
 # Have fun, everyone! 🚀
